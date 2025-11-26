@@ -114,11 +114,11 @@ hr {
     position: sticky;
     bottom: 2rem;
     border-radius: 40px;
-    width: calc((24px + 5rem) * 7);
+    width: calc((24px + 5rem) * 6);
 }
 
 .horizontal-center {
-    width: calc((24px + 5rem) * 7);
+    width: calc((24px + 5rem) * 6);
     position: fixed;
     bottom: 1.5rem;
     left: 50%;
